@@ -225,7 +225,7 @@ class CiscoSwitchInspector:
     def connect_switch(self, switch_ip):
         try:
             self.ssh_client = paramiko.SSHClient()
-            self.ssh_client.set_missing_host_key_Policy(paramiko.AutoAddPolicy())
+            self.ssh_client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
             self.ssh_client.connect(
                 hostname=switch_ip,
                 username=CONFIG["username"],
