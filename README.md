@@ -13,6 +13,7 @@ pip install -r requrement.txt
 python main.py
 
 # UI 界面
-![图片](test1-ui.png)
+![示例图片](test1-ui.png)
+
 Contact: 847297@qq.com
 
