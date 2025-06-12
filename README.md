@@ -1,5 +1,5 @@
-# Cisco_Inspection_Assistant
-Cisco_switch/Router Inspection_Assistat, have  Graphic UI .  接入阿里千问大模型自动分析巡检数据，得到检查报告。
+# Cisco_Inspection_AI_Assistant
+Cisco_switch/Router Inspection_Assistat, have  Graphic UI .  接入阿里千问大模型自动分析巡检数据，AI_得到检查报告。
 
 
 # requirements 要求
