@@ -1,2 +1,2 @@
-# Cisco_Inspection_Assistantt
-Cisco_switch/Router Inspection_Assista
+# Cisco_Inspection_Assistant
+Cisco_switch/Router Inspection_Assistat
